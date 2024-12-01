@@ -1,1 +1,55 @@
-backend/.env
+# Environment files
+.env
+*.env
+.env.local
+.env.development
+.env.production
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build directories
+build/
+dist/
+out/
+
+# Dependency directories
+backend/node_modules/
+frontend/node_modules/
+
+# Logs
+logs/
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Frontend build artifacts
+frontend/build/
+frontend/.next/
+frontend/out/
+
+# Backend build artifacts
+backend/build/
+backend/dist/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Testing
+coverage/
+.nyc_output/
+
+# Platform specific files
+.DS_Store
+.AppleDouble
+.LSOverride
