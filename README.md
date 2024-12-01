@@ -42,7 +42,7 @@ Follow these steps to set up and run the project on your local machine:
 
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/AasheeshLikePanner/MailFlow
 cd MailFlow
 ```
 
