@@ -52,4 +52,5 @@ coverage/
 # Platform specific files
 .DS_Store
 .AppleDouble
-.LSOverride
+.LSOverridebackend/node_modules/
+frontend/node_modules/
