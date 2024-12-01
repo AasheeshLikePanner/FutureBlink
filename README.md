@@ -1,6 +1,4 @@
-Here’s a **README.md** file for your project:
 
-```markdown
 # Email Scheduler Project 🚀
 
 This project is a **full-stack application** designed to schedule and manage emails. It offers a user-friendly interface to schedule emails, view their status, and send them at the desired time using a robust backend workflow. The project integrates **React** for the frontend, **Node.js/Express** for the backend, and various tools like **Agenda** and **Nodemailer** for efficient email management.
@@ -68,6 +66,5 @@ npm run dev
 
 The backend will be available at `http://localhost:8000`.
 
----
 
 
